@@ -1,9 +1,8 @@
-# MERN
 
 This is a simple NodeJS + Express + React + MongoDB application. This application serves as a basic template for a mern applications.
 
 What does this application do?
--------------------------------
+
 This application serves a simple MERN based TODO application to demonstrate the use of MERN stack. This application uses following technologies:
 - MongoDB: used as database
 - Express: used as web application framework
